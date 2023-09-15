@@ -4,7 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [Septermber 15, Friday, 2023]
 
 ## Log
 
-### R1D1 
+### R1D1     
+
+Fri Sep 15 08:31:42 PM CEST 2023
+
 Started by forking this repo and editing this log.
 
 Reading 'C How to Program Global 9e, Deitel'. I already did Chapter 1, I am at
