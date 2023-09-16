@@ -22,7 +22,7 @@ printf. It took me 30m to finish the section.
 
 Sat Sep 16 11:47:53 AM CEST 2023
 
-Started from Section 2.3 to 2.4.
+Continued reading, started from Section 2.3 to 2.4.
 
 ### R1D03
 
